@@ -1,0 +1,15 @@
+{
+  "name": "com.hacha.myunitypackagetest",
+  "version": "0.0.1",
+  "displayName": "Unity Package Test",
+  "description": "This is a test.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "author": {
+    "name": "Tetsuya Ozawa",
+    "email": "tetsuya.ozawa@styly.inc",
+    "url": "https://github.com/hacha"
+  }
+}
