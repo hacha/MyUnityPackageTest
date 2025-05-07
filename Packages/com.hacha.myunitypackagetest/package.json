@@ -11,5 +11,12 @@
     "name": "Tetsuya Ozawa",
     "email": "tetsuya.ozawa@styly.inc",
     "url": "https://github.com/hacha"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Basic Sample",
+      "description": "This is a basic sample.",
+      "path": "Samples~/BasicSample"
+    }
+  ]
 }
