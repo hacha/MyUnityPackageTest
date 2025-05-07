@@ -1,6 +1,6 @@
 {
   "name": "com.hacha.myunitypackagetest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Unity Package Test",
   "description": "This is a test.",
   "unity": "6000.0",
